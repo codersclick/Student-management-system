@@ -23,10 +23,7 @@ Welcome to the Student Management System in C, a beginner-friendly project desig
 1. Clone this repository to your local machine.
 2. Compile the C source code using your preferred C compiler.
 3. Run the executable to start managing student records.
-
-## Contributions
-Contributions from beginners and experienced developers are welcome. Whether you want to fix bugs, add new features, or improve documentation, your contributions will be valuable to others learning C programming.
-
+ 
 ## License
 This project is open-source and available under the MIT License, so feel free to use, modify, and share it as needed.
 
