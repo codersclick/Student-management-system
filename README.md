@@ -2,6 +2,7 @@
 
 ## Description
 Welcome to the Student Management System in C, a beginner-friendly project designed to help you learn and practice the fundamentals of the C programming language. This repository contains a simple yet comprehensive student management system that allows you to perform essential operations for managing student records efficiently.
+![Red   Black Martial Arts Tutorial YouTube Thumbnail](https://github.com/codersclick/Student-management-system/assets/146223875/aaa0afc6-1055-4475-ba7d-4b716da7568a)
 
 ## Features
 1. **Add Student:** Easily add new student records with details like name, roll number, age, and more.
