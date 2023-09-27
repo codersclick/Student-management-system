@@ -1,0 +1,2 @@
+This is first project in c language. 
+Student Management system.
